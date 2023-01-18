@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/odin-memory-game/static/css/main.b55d75ff.css",
+    "main.js": "/odin-memory-game/static/js/main.4a567117.js",
+    "static/media/aratakiItto.png": "/odin-memory-game/static/media/aratakiItto.72c04e12d114c2e2fc0e.png",
+    "static/media/nilou.png": "/odin-memory-game/static/media/nilou.833216f3672715e7e04a.png",
+    "static/media/yaeMiko.png": "/odin-memory-game/static/media/yaeMiko.f5679b63cbd1923548be.png",
+    "static/media/keqing.png": "/odin-memory-game/static/media/keqing.636c551b30f5b636cae5.png",
+    "static/media/beidou.png": "/odin-memory-game/static/media/beidou.a0289a40bdf003be98bd.png",
+    "static/media/raidenShogun.png": "/odin-memory-game/static/media/raidenShogun.76359d5a930a9855d4f4.png",
+    "static/media/ningguang.png": "/odin-memory-game/static/media/ningguang.acbe60cdbcd7e9226793.png",
+    "static/media/venti.png": "/odin-memory-game/static/media/venti.d9ac54ca21616a122913.png",
+    "static/media/shenhe.png": "/odin-memory-game/static/media/shenhe.a57135367668c1b693c5.png",
+    "static/media/zhongli.png": "/odin-memory-game/static/media/zhongli.de3b76e95ffbf89ac6cc.png",
+    "static/media/yelan.png": "/odin-memory-game/static/media/yelan.bbeee7cefde086a0294d.png",
+    "static/media/kamisatoAyaka.png": "/odin-memory-game/static/media/kamisatoAyaka.c5729a3bf1dcbbae3de2.png",
+    "index.html": "/odin-memory-game/index.html",
+    "main.b55d75ff.css.map": "/odin-memory-game/static/css/main.b55d75ff.css.map",
+    "main.4a567117.js.map": "/odin-memory-game/static/js/main.4a567117.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b55d75ff.css",
+    "static/js/main.4a567117.js"
+  ]
+}
