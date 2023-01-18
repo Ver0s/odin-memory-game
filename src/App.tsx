@@ -1,4 +1,8 @@
-import React from 'react';
+import React, { useState } from 'react';
+import Header from './components/Header';
+import Main from './components/Main';
+import { cardsData } from './assets/data/cardsData';
+import type { Card } from './assets/data/cardsData';
 
 function App(): JSX.Element {
 	const [currentScore, setCurrentScore] = useState(0);
@@ -37,11 +41,16 @@ function App(): JSX.Element {
 
 		setCards(shuffle([...cards]));
 	}
+
 	return (
-		<div>
-			<h1>Hi</h1>
-			<p>test</p>
-		</div>
+		<>
+			<Header
+				currentScore={currentScore}
+				highestScore={highestScore}
+				title="Genshin memory game"
+			/>
+			<Main cards={cards} onCardClick={handleCardClick} />
+		</>
 	);
 }
 
